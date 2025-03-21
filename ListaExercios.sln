@@ -3,23 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio1", "Exercicio1\Exercicio1.csproj", "{0024F014-1778-4886-9EBF-8804F050715F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio01", "Exercicio1\Exercicio01.csproj", "{0024F014-1778-4886-9EBF-8804F050715F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio2", "Exercicio2\Exercicio2.csproj", "{310C0D2E-0B1E-41E4-8048-91DF9C81F55F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio02", "Exercicio2\Exercicio02.csproj", "{310C0D2E-0B1E-41E4-8048-91DF9C81F55F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio3", "Exercicio3\Exercicio3.csproj", "{C501F5AB-51D8-49ED-A08C-02F19909798C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio03", "Exercicio3\Exercicio03.csproj", "{C501F5AB-51D8-49ED-A08C-02F19909798C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio4", "Exercicio4\Exercicio4.csproj", "{EB5E1897-E797-4BC7-8DCB-B93A876AADF1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio04", "Exercicio4\Exercicio04.csproj", "{EB5E1897-E797-4BC7-8DCB-B93A876AADF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio5", "Exercicio5\Exercicio5.csproj", "{EBC824D4-47CE-453A-9B59-7EA34441DF91}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio05", "Exercicio5\Exercicio05.csproj", "{EBC824D4-47CE-453A-9B59-7EA34441DF91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio6", "Exercicio6\Exercicio6.csproj", "{19BF1059-2A93-49BD-905E-C2DAA1B148CE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio06", "Exercicio6\Exercicio06.csproj", "{19BF1059-2A93-49BD-905E-C2DAA1B148CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio7", "Exercicio7\Exercicio7.csproj", "{C3E31F3A-285A-4F08-ABE3-0C45E65205B9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio07", "Exercicio7\Exercicio07.csproj", "{C3E31F3A-285A-4F08-ABE3-0C45E65205B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio8", "Exercicio8\Exercicio8.csproj", "{ECB0946F-3E65-4710-9B68-543687030F42}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio08", "Exercicio8\Exercicio08.csproj", "{ECB0946F-3E65-4710-9B68-543687030F42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio9", "Exercicio9\Exercicio9.csproj", "{3882DD46-1939-44F4-B3FD-0C0DD1158229}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio09", "Exercicio9\Exercicio09.csproj", "{3882DD46-1939-44F4-B3FD-0C0DD1158229}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
